@@ -11,7 +11,7 @@ on:
 jobs:
   # Formatting and linting only runs on human-submitted PRs
   # format-lint-lwc-tests:
-  #   runs-on: ubuntu-latest
+    # runs-on: ubuntu-latest
   #   steps:
       # Checkout the source code
       # - name: "Checkout source code"
@@ -52,7 +52,7 @@ jobs:
 
   scratch-org-test:
     runs-on: ubuntu-latest
-    needs: format-lint-lwc-tests
+    # needs: format-lint-lwc-tests
     steps:
       # Install Salesforce CLI
       - name: "Install Salesforce CLI"
