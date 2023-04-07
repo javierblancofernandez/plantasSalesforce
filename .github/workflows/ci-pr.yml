@@ -90,7 +90,7 @@ jobs:
 
       # Assign permissionset
       - name: "Assign permissionset to default user"
-        run: sfdx force:user:permset:assign -n Plants_App
+        run: sfdx force:user:permset:assign -n MyPlantsApp
 
       # Import sample data
       - name: "Import sample data"
@@ -113,4 +113,4 @@ jobs:
       # Housekeeping
       - name: "Delete scratch org"
         if: always()
-        run: sfdx org:delete:scratch
+        run: sfdx sfdx force:org:delete -p -u scratch-org
