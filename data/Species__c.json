@@ -1,0 +1,75 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef1"
+            },
+            "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+            "Ideal_Max_Temperature__c": 25,
+            "Image_URL__c": "https://cdn.pixabay.com/photo/2018/04/02/07/42/leaf-3283175_1280.jpg",
+            "Location__c": "Indoors",
+            "Name": "Aloe Vera",
+            "Pulverization__c": false,
+            "Sowing__c": null,
+            "Type__c": "Ornamental"
+        },
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef2"
+            },
+            "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+            "Ideal_Max_Temperature__c": 25,
+            "Image_URL__c": "https://decoracionyjardines.com/wp-content/uploads/2017/02/cuidados-de-la-hierbabuena.jpg",
+            "Location__c": "Indoors;Outdoors",
+            "Name": "Hierbabuena",
+            "Pulverization__c": false,
+            "Sowing__c": null,
+            "Type__c": "Edible"
+        },
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef3"
+            },
+            "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+            "Ideal_Max_Temperature__c": 25,
+            "Image_URL__c": "https://i.pinimg.com/originals/88/a4/9f/88a49f73cb34bb49ea799087ad2fba15.jpg",
+            "Location__c": "Outdoors",
+            "Name": "Jazmín Común",
+            "Pulverization__c": false,
+            "Sowing__c": null,
+            "Type__c": "Ornamental"
+        },
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef4"
+            },
+            "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+            "Ideal_Max_Temperature__c": 25,
+            "Image_URL__c": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/10/cuidados-de-las-plantas-telefono.jpg",
+            "Location__c": "Indoors",
+            "Name": "Poto",
+            "Pulverization__c": false,
+            "Sowing__c": null,
+            "Type__c": "Ornamental"
+        },
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef5"
+            },
+            "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+            "Ideal_Max_Temperature__c": 25,
+            "Image_URL__c": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/10/cuidados-de-las-plantas-telefono.jpg",
+            "Location__c": "Indoors;Outdoors",
+            "Name": "Planta del Dinero (Hiedra Sueca)",
+            "Pulverization__c": true,
+            "Sowing__c": null,
+            "Type__c": "Ornamental"
+        }
+        
+    ]
+}

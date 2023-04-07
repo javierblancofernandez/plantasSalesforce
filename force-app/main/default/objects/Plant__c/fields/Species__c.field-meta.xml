@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Species__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Es el campo que relaciona especie con plata</description>
+    <externalId>false</externalId>
+    <label>Species</label>
+    <referenceTo>Species__c</referenceTo>
+    <relationshipLabel>PLants</relationshipLabel>
+    <relationshipName>PLants</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
